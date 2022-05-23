@@ -2,6 +2,7 @@
 let x = 0;
 
 
+
 let pages={
     src:"pages.html",
     type:"page",
@@ -98,6 +99,7 @@ let decrements_g_val={
     }
 }
 
+
 //contents array is important!
 let contents=[
     pages,
@@ -112,5 +114,5 @@ let contents=[
     incrementAtomUpdatesAllPages,
     decrementAtomUpdatesAllPages,
     increments_g_val,
-    decrements_g_val
+    decrements_g_val,
 ];
