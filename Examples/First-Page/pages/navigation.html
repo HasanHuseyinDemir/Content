@@ -1,0 +1,21 @@
+<div id="selectNavigation">
+    <select  onchange="navigationAtom.navigation=this.value,gVal('header');">
+        <option value="properties">Properties Page</option>
+        <option value="about">About Page</option>
+    </select>
+    </div>
+    
+    <style>
+        #selectNavigation{
+            display: flex;
+            justify-content: center;
+            
+        }
+        #selectNavigation>select{
+            height: 50px;
+        }
+        #selectNavigation>select>option:nth-child(odd){
+            background-color: rgb(187, 187, 187);
+        }
+    </style>
+    

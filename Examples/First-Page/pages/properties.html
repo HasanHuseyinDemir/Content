@@ -1,0 +1,38 @@
+<h1 align="center">Properties</h1>
+<div id="properties">
+    <div style="background-color:rgb(187, 187, 187);padding:10px">
+        <h3>gVal Property</h3>
+        <p>It allows to update the specified page. The important point here is that the variable name must be specified as a string value!</p>
+        <p>  <b>gVal('header',x++)</b></p>
+        <gval-increment-atom></gval-increment-atom>
+        <gval-decrement-atom></gval-decrement-atom>
+    </div>
+    
+    
+    
+    <div style="background-color:rgb(187, 187, 187);padding:10px">
+    <h3>Set Property</h3>
+    <p>The set() property only affects all atoms.</p>
+    <p>You can optionally use the callback function. => <b>set(x++</b>)</p>
+    <increment-atom></increment-atom>
+    <decrement-atom></decrement-atom>
+    </div>
+    
+    
+    <div style="background-color:rgb(187, 187, 187);padding:10px">
+    <h3>Val Property</h3>
+    <p>The val property will update all pages.=><b>val(x++)</b></p>
+    <val-increment-atom></val-increment-atom>
+    <val-decrement-atom></val-decrement-atom>
+    </div>
+    
+    </div>
+    
+    <style>
+        #properties{
+            display:grid;
+            justify-content: center;
+            grid-template-columns: 30% 30% 30%;
+            gap:10px;
+    }
+    </style>
