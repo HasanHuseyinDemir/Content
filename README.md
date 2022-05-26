@@ -11,13 +11,14 @@ CDN Link:
 > <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.1.js" defer></script>
 
 Version History:
->1.11
->text type added<br>
->Document mount and unmount<br> 
->File to render
+><h2 align="center">1.11</h2>
+>+text type added<br>
+>+Document mount and unmount<br> 
+>+File to render<br>
+><i align="center">26 May 2022</i>
 
->1.1 
+><h2 align="center">1.1</h2> 
 >
 >+Static pages added<br>
->+Performance Optimizations
-    
+>+Performance Optimizations<br>
+<i align="center">24 May 2022</i>
