@@ -8,7 +8,7 @@
 
 CDN Link:
 
-> <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.1.js" defer></script>
+> <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.11.js" defer></script>
 
 Version History:
 ><h2 align="center">1.11</h2>
