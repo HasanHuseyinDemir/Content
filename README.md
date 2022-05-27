@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150px" src="https://github.com/HasanHuseyinDemir/Crud-Application-with-ContentJS/raw/master/contentjs.png"/>
+<img width="150px" src="https://github.com/HasanHuseyinDemir/Crud-Application-with-ContentJS/raw/master/images/contentjs.png"/>
 </div>
 
 
