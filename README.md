@@ -4,7 +4,7 @@
 
 
 # Content
- Dynamic and easy to use javascript framework
+ Dynamic and easy to use javascript spa framework
  
 Example-Pages:
 >First Page: [Demo](https://hasanhuseyindemir.github.io/Content/Examples/First-Page/index.html) | [Repo](https://github.com/HasanHuseyinDemir/Content/tree/main/Examples/First-Page)<br>
