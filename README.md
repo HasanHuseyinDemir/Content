@@ -42,3 +42,8 @@ Version History:
 >+Static pages added<br>
 >+Performance Optimizations<br>
 <i align="center">24 May 2022</i>
+
+Plugins : 
+
+>Observe runs functions that will be active when the value of the variables you specify changes. It does this with callback functions.<br>
+><i>1 June 2022</i>
