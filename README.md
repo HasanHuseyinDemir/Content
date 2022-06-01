@@ -46,6 +46,6 @@ Version History:
 Plugins : 
 
 >Observe runs functions that will be active when the value of the variables you specify changes. It does this with callback functions.<br>
->CDN Link of Content-Observer <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-for-content.min.js"></script><br>
->CDN Link of Vanilla Js Observer <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-vanilla.min.js"></script>
+>CDN Link of Content-Observer <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-for-content.min.js"></script><br><br>
+>CDN Link of Vanilla Js Observer <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-vanilla.min.js"></script><br>
 ><i>1 June 2022</i>
