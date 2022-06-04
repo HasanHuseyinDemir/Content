@@ -21,8 +21,8 @@ The observe plugin ensures to keep the performance at the highest level in state
 <br>
 CDN Link:
 
-><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-content-1.16.1.min.js"></script><br>
-><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.js" defer></script>
+><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-content-1.16.min.js"></script><br>
+><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.1.js" defer></script>
 
 Version History:
 ><h2>1.16.1</h2>
