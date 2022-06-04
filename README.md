@@ -28,7 +28,7 @@ Version History:
 >Component naming has been improved. <br>
 >Another VDom alternative system has been added. <br>
 >Prop reading and writing system has been added<br>
->gVal Removed!
+>gVal Removed!<br>
 ><i>4 June 2022</i>
 
 
