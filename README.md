@@ -23,6 +23,14 @@ CDN Link:
 > <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.12.js" defer></script>
 
 Version History:
+><h2>1.16</h2>
+>Added useful attributes. <br>
+>Component naming has been improved. <br>
+>Another VDom alternative system has been added. <br>
+>Prop reading and writing system has been added<br>
+>gVal Removed!
+><i>4 June 2022</i>
+
 
 ><h2 align="center">1.12</h2>
 >-text,mount,unmount disabled for now<br>
