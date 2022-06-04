@@ -29,6 +29,8 @@ Version History:
 >Another VDom alternative system has been added. <br>
 >Prop reading and writing system has been added<br>
 >gVal Removed!<br>
+>Compositions Removed<br>
+>Static page is disabled for now...
 ><i>4 June 2022</i>
 
 
