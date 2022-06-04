@@ -15,12 +15,14 @@ Example-Pages:
 Made-With-Content:
 >YourGallery App : [Demo](https://hasanhuseyindemir.github.io/YourGallery-App/) | [Repo](https://github.com/HasanHuseyinDemir/YourGallery-App)
 
-
+## Optional
+The observe plugin ensures to keep the performance at the highest level in state changes. Also, thanks to the watch class, a function that is triggered when the desired value reaches the specified value can be defined.
 
 <br>
 CDN Link:
 
-> <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.js" defer></script>
+><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-content-1.16.min.js"></script><br>
+><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.js" defer></script>
 
 Version History:
 ><h2>1.16</h2>
