@@ -13,7 +13,7 @@ Example-Pages:
 >With Module: [Demo](https://hasanhuseyindemir.github.io/Content/Examples/With%20Module/) | [Repo](https://github.com/HasanHuseyinDemir/Content/tree/main/Examples/With%20Module)
 
 Made-With-Content:
->YourGallery App : [Demo](https://hasanhuseyindemir.github.io/YourGallery-App/) | [Repo](https://github.com/HasanHuseyinDemir/YourGallery-App)
+>YourGallery App(contentjs 1.1) : [Demo](https://hasanhuseyindemir.github.io/YourGallery-App/) | [Repo](https://github.com/HasanHuseyinDemir/YourGallery-App)
 
 ## Optional
 The observe plugin ensures to keep the performance at the highest level in state changes. Also, thanks to the watch class, a function that is triggered when the desired value reaches the specified value can be defined.
