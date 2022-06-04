@@ -20,7 +20,7 @@ Made-With-Content:
 <br>
 CDN Link:
 
-> <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.12.js" defer></script>
+> <script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.js" defer></script>
 
 Version History:
 ><h2>1.16</h2>
