@@ -27,6 +27,7 @@ CDN Link:
 Version History:
 ><h2>1.16.7</h2>
 >Bugs fixed
+><i>5 June 2022</i>
 
 ><h2>1.16.1</h2>
 >Added useful attributes. <br>
