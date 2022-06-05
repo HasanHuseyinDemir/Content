@@ -25,6 +25,9 @@ CDN Link:
 ><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.16.7.js" defer></script>
 
 Version History:
+><h2>1.16.7</h2>
+>Bugs fixed
+
 ><h2>1.16.1</h2>
 >Added useful attributes. <br>
 >Component naming has been improved. <br>
