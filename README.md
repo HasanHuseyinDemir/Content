@@ -25,16 +25,16 @@ CDN Link:
 ><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.17.js" defer></script>
 
 Version History:
-><h2>1.17</h2>
+><h2 align="center">1.17</h2>
 >Added Slots => {slot}<br>
 ><i>6 June 2022</i>
 
 
-><h2>1.16.7</h2>
+><h2 align="center">1.16.7</h2>
 >Bugs fixed
 ><i>5 June 2022</i>
 
-><h2>1.16.1</h2>
+><h2 align="center">1.16.1</h2>
 >Added useful attributes. <br>
 >Component naming has been improved. <br>
 >Another VDom alternative system has been added. <br>
