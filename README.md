@@ -22,9 +22,13 @@ The observe plugin ensures to keep the performance at the highest level in state
 CDN Link:
 
 ><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/plugin-observe/observe-content-1.16.min.js"></script><br>
-><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.17.js" defer></script>
+><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.17.2.js" defer></script>
 
 Version History:
+><h2 align="center">1.17.2</h2>
+>In-page script reading feature<br>
+><i>7 October 2022</i>
+
 ><h2 align="center">1.17</h2>
 >Added Slots => {slot}<br>
 ><i>6 June 2022</i>
