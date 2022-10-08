@@ -26,7 +26,7 @@ CDN Link:
 
 Version History:
 ><h2 align="center">1.17.3</h2>
->"$_" scope feature<br>
+>"__" scope feature<br>
 ><i>7 October 2022</i>
 
 ><h2 align="center">1.17.2</h2>
