@@ -25,6 +25,10 @@ CDN Link:
 ><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.17.2.js" defer></script>
 
 Version History:
+><h2 align="center">1.17.3</h2>
+>"$_" scope feature<br>
+><i>7 October 2022</i>
+
 ><h2 align="center">1.17.2</h2>
 >In-page script reading feature<br>
 ><i>7 October 2022</i>
