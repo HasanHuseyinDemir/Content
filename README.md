@@ -25,6 +25,11 @@ CDN Link:
 ><script src="https://cdn.jsdelivr.net/gh/hasanhuseyindemir/Content/versions/content-1.18.6.js" defer></script>
 
 Version History:
+><h2 align="center">1.19</h2>
+>Component Namer <br>
+>Minor Bug Fix<br>
+><i>16 October 2022</i>
+
 ><h2 align="center">1.18.6</h2>
 >Script Executing Problems Fixed<br>
 ><i>16 October 2022</i>
