@@ -6,7 +6,7 @@
 # Content
  Dynamic and easy to use javascript spa framework
  
-Example-Pages:
+Example-Pages(Old Versions):
 >First Page: [Demo](https://hasanhuseyindemir.github.io/Content/Examples/First-Page/index.html) | [Repo](https://github.com/HasanHuseyinDemir/Content/tree/main/Examples/First-Page)<br>
 >Simple Router: [Demo](https://hasanhuseyindemir.github.io/Content/Examples/Simple-Router/) | [Repo](https://github.com/HasanHuseyinDemir/Content/tree/main/Examples/Simple-Router)<br>
 >Static-Pages: [Demo](https://hasanhuseyindemir.github.io/Content/Examples/Test/) | [Repo](https://github.com/HasanHuseyinDemir/Content/tree/main/Examples/Test)<br>
