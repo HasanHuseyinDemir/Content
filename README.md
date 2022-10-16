@@ -28,7 +28,7 @@ Version History:
 ><h2 align="center">1.19</h2>
 >Component Namer <br>
 >Minor Bug Fix<br>
-><i>16 October 2022</i>
+><i>17 October 2022</i>
 
 ><h2 align="center">1.18.6</h2>
 >Script Executing Problems Fixed<br>
@@ -40,6 +40,7 @@ Version History:
 
 ><h2 align="center">1.17.2</h2>
 >In-page script reading feature<br>
+>Slots changed => {%slot%}<br>
 ><i>7 October 2022</i>
 
 ><h2 align="center">1.17</h2>
